@@ -1,0 +1,12 @@
+MULTINOMIAL REGRESSION
+
+The Multinominal regression is the supervised machine learning algorithm.
+It is the predictive analysis technique where dependent variables are nominal more than 2.
+Multinominal regression is used to determine the relationship between the 1 nominal dependent variable and one or more independent
+Multinominal regression is the extension of logistic regression
+In this type of model the output variabe is >2
+No natural ordering in categories
+Hence here will will apply for multi logits
+
+
+
